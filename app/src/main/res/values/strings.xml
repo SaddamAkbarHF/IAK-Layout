@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IAK</string>
+    <string name="pengertian_textviewdanedtittext">TextView pada Android digunakan untuk menampilkan teks atau tulisan pada layar atau perangkat android. Sedangkan EditText digunakan oleh user untuk menginput atau memasukkan tulisan, teks atau angka. Pada tutorial kali ini kita akan membuat aplikasi sederhana untuk memasukkan teks dan kemudian menampikanya di layar perangkat Android.</string>
+    <string name="pengertian_imageview">ImageView adalah komponen dasar android yang tugasnya menampilkan gambar. Gambar di komponen imageview bisa diambil dari Assets atau dari Drawable. Perbedaan antara drawable dengan assets sudah saya jelaskan di artikel sebelumnya.</string>
+</resources>
